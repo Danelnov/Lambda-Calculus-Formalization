@@ -1,0 +1,4 @@
+{
+    "latex-workshop.intellisense.unimathsymbols.enabled": true,
+    "latex-workshop.latex.autoBuild.run": "never"
+}
